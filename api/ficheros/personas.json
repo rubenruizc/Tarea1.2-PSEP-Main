@@ -1,0 +1,5 @@
+ [
+   {"id": 1, "DNI": "12345678A", "nombre": "Rubén", "apellidos": "Ruiz Castaño", "teléfono": 123456789, "correo": "ruben@gmail.com"},
+   {"id": 2, "DNI": "23456789B", "nombre": "Amaro", "apellidos": "Suárez Villegas", "teléfono": 987654321, "correo": "amaro@gmail.com"},
+   {"id": 3, "DNI": "4567899C", "nombre": "Jenri", "apellidos": "Muñoz Galloso", "teléfono": 192837456, "correo": "laura@gmail.com"}
+ ]

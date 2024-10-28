@@ -1,0 +1,5 @@
+[
+    {"id": 1, "Precio Coste Móvil": 200, "Precio Venta Móvil": 300, "idPersona": 1},
+    {"id": 2, "Precio Coste Móvil": 250, "Precio Venta Móvil": 350, "idPersona": 2},
+    {"id": 3, "Precio Coste Móvil": 300, "Precio Venta Móvil": 400, "idPersona": 3}
+]
